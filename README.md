@@ -39,7 +39,7 @@ This helps the marketing and sales teams understand their primary customer base.
 
 ### 6. Dynamic Filter Panel
 A pop-out panel that appears and disappears with a button click. This panel holds key slicers (e.g., for Date, Region, or Ship Mode) to filter the entire report, allowing for a clean, uncluttered main view.
-
+![Dynamic filter panel](filters.jpg)
 ## Technical Details
 
 * **Tool:** **Microsoft Power BI**. All data modeling, DAX measures, and visualizations were built within Power BI.
