@@ -38,10 +38,10 @@ A donut chart that segments total sales by customer type:
 This helps the marketing and sales teams understand their primary customer base.
 
 ### 6. Dynamic Filter Panel
-A pop-out panel that appears and disappears with a button click. This panel holds key slicers (e.g., for Date, Region, or Ship Mode) to filter the entire report, allowing for a clean, uncluttered main view.
+A pop-out panel that appears and disappears with a button click. This panel holds key slicers (e.g., for Date, Region, or Segments) to filter the entire report, allowing for a clean, uncluttered main view.
 ![Dynamic filter panel](filters.jpg)
-## Technical Details
 
+## Technical Details
 * **Tool:** **Microsoft Power BI**. All data modeling, DAX measures, and visualizations were built within Power BI.
 * **Dataset:** The dashboard uses the public "Superstore" sample dataset, which includes 9,994 records of fictional sales data.
 
