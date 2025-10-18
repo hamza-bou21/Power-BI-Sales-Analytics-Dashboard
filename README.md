@@ -45,7 +45,7 @@ A pop-out panel that appears and disappears with a button click. This panel hold
 * **Tool:** **Microsoft Power BI**. All data modeling, DAX measures, and visualizations were built within Power BI.
 * **Dataset:** The dashboard uses the public "Superstore" sample dataset, which includes 9,994 records of fictional sales data.
 
-## (Optional) Future Enhancements
+## Future Enhancements
 
 * **Drill-Down:** Add drill-down functionality to the "Profit by Product" chart to see individual product performance.
 * **Customer Analysis:** Create a separate page for a deep dive on customer-level analytics (e.g., Top N Customers, RFM Analysis).
