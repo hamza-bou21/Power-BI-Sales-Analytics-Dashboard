@@ -1,4 +1,3 @@
-
 # Magi-store Sales & Profit Dashboard
 
 ![Magi-store Dashboard Screenshot](image.png)
@@ -37,6 +36,9 @@ A donut chart that segments total sales by customer type:
 * **Home Office** (18.92%)
 
 This helps the marketing and sales teams understand their primary customer base.
+
+### 6. Dynamic Filter Panel
+A pop-out panel that appears and disappears with a button click. This panel holds key slicers (e.g., for Date, Region, or Ship Mode) to filter the entire report, allowing for a clean, uncluttered main view.
 
 ## Technical Details
 
